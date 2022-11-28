@@ -5,7 +5,7 @@ This includes of the following resources:
 - Subnets (Public, Private)
 - Route tables
 - Internet gateways
-- SNAT Gateway
+- NAT Gateway
 - IAM Role with AmazonSSMFullAccess
 
 ## SystemConfiguration
