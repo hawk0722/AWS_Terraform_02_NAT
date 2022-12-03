@@ -3,6 +3,7 @@
 This includes of the following resources:
 - Virtual private cloud
 - Subnets (Public, Private)
+- EC2
 - Route tables
 - Internet gateways
 - NAT Gateway
